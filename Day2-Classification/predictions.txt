@@ -1,0 +1,4 @@
+Image 1 - Predicted: cat, Actual: cat
+Image 2 - Predicted: ship, Actual: ship
+Image 3 - Predicted: ship, Actual: ship
+Image 4 - Predicted: airplane, Actual: airplane
